@@ -12,3 +12,4 @@ kneed
 prettytable
 pymongo[srv]
 python-dotenv
+certifi
